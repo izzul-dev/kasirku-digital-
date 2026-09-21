@@ -1,0 +1,6 @@
+{
+  "name": "MultiPOS",
+  "description": "Aplikasi POS Multi-Tenant untuk UMKM dengan isolasi data Owner, Cabang, Kasir, Produk, Stok, Transaksi, Laporan Laba Bersih, dan Google Maps.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
